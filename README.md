@@ -8,6 +8,6 @@ sleep quality, stress, BMI, occupation, and sleep disorders.
 ## Analysis Walkthrough
 ### 1. Univariate Analysis
 ![Quality_of_sleep](Figures/Quality_of_sleep.png)
-![Sleep_Duration](Figures/Sleep_Duration.png)
+![Sleep_Duration](C:\pratice\Sleep health and lifestyle\Figures\Sleep duration .png)
 
 ### 2. Bivariate Analysis
